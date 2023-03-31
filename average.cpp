@@ -1,12 +1,3 @@
-/*
- 
- Jacob Ramos
- PIC - 10A
- UID: 505-927-969
- Homework #6: average.cpp
- 
-*/
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
